@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="JRunUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ShortcutWindowWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="ShortcutWindowHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="ShortcutWindowTop" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ShortcutWindowLeft" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="History" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BackColorString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#99004488</Value>
+    </Setting>
+    <Setting Name="BorderColorString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#FF000000</Value>
+    </Setting>
+    <Setting Name="TextColorString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#FFFFAA00</Value>
+    </Setting>
+    <Setting Name="ErrorColorString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#FFFF0000</Value>
+    </Setting>
+    <Setting Name="TextBackColorString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#99000000</Value>
+    </Setting>
+    <Setting Name="XmlFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shortcuts.xml</Value>
+    </Setting>
+    <Setting Name="ProfileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ProfileSelector" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="HotKeyString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Alt + Space</Value>
+    </Setting>
+    <Setting Name="bStartWithWindows" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
